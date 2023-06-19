@@ -6,7 +6,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-moya-figueiredo-30638021b/)
 
 
-![Felipe-Moya GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Moya&show_icons=true&theme=radical)
+![Felipe-Moya GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Moya&showicons=true&theme=radical)
 
 <div style="display: inline_block"><br/>
 <img align="center" hight="50px" width="50px" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
