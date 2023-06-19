@@ -15,7 +15,7 @@
 <img align="center" hight="50px" width="50px" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 <div/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Moya&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Felipe-Moya&layout=compact)
   
 <!---
 Felipe-Moya/Felipe-Moya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
