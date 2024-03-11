@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Felipe Moya Figueiredo
-- 🌱 No momento estou aprendendo JavaScript
+- 🌱 No momento estou aprendendo Python
 - 😃 Pronouns: ele/dele
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felp_mf)
