@@ -65,6 +65,6 @@ Desenvolvo soluções web com foco em segurança — porque um site bonito tamb�
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Felipe-Moya&theme=dark&hide_border=true&background=080c10&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe-Moya&theme=github_dark)
 
 </div>
