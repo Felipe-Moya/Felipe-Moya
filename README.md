@@ -65,6 +65,6 @@ Desenvolvo soluções web com foco em segurança — porque um site bonito tamb�
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe-Moya&theme=github_dark)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Moya&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
 </div>
