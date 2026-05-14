@@ -1,23 +1,72 @@
-## Olá! Eu sou o Felipe Moya Figueiredo
-- 🌱 No momento estou aprendendo Python
-- 😃 Pronouns: ele/dele
+<div align="center">
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felp_mf)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-moya-figueiredo-30638021b/)
+# Felipe Moya Figueiredo
 
+### Segurança da Informação & Desenvolvimento Web
 
-![Felipe-Moya GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Moya&showicons=true&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-moya-figueiredo-30638021b/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-00e5a0?style=for-the-badge&logo=google-chrome&logoColor=black)](https://felipe-moya.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeayom4.f@gmail.com)
 
-<div style="display: inline_block"><br/>
-<img align="center" hight="50px" width="50px" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" hight="50px" width="50px" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" hight="50px" width="50px" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" hight="50px" width="50px" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-<div/><br/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Felipe-Moya&layout=compact)
-  
-<!---
-Felipe-Moya/Felipe-Moya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Sobre mim
+
+Estudante de Segurança da Informação na **FATEC São Caetano do Sul** e estagiário na **SafeUp Cybersecurity**, atuando em operações de SOC e Blue Team.
+
+Desenvolvo soluções web com foco em segurança — porque um site bonito também precisa ser blindado.
+
+- 🛡️ Estagiário em Segurança da Informação — SafeUp Cybersecurity
+- 🎓 Cursando Segurança da Informação — FATEC São Caetano do Sul
+- 🏆 1° lugar em CTF em equipe
+- 🔐 TCC focado em segurança do protocolo MCP
+- 📍 São Caetano do Sul, SP
+
+---
+
+## Tecnologias
+
+**Segurança**
+
+![SOC](https://img.shields.io/badge/SOC%2FBlue%20Team-141c26?style=flat-square&logoColor=00e5a0)
+![SIEM](https://img.shields.io/badge/SIEM-141c26?style=flat-square&logoColor=00e5a0)
+![ISC2](https://img.shields.io/badge/CC%20ISC2-00e5a0?style=flat-square&logoColor=black)
+
+**Desenvolvimento**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Infraestrutura**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+---
+
+## Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [Portfólio Profissional](https://github.com/Felipe-Moya/portfolio) | Site portfólio desenvolvido do zero | HTML · CSS · JS |
+| Mini SIEM | Detecção de ataques de força bruta | Python |
+| Segurança MCP | TCC — segurança de IA em containers | Python · Docker · K8s |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Moya&show_icons=true&theme=radical&hide_border=true&bg_color=080c10&title_color=00e5a0&icon_color=00e5a0&text_color=e8edf2)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Moya&layout=compact&theme=radical&hide_border=true&bg_color=080c10&title_color=00e5a0&text_color=e8edf2)
+
+</div>
